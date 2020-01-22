@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="788405ef-8159-424b-8816-8e38a4a5022d" name="Default Changelist" comment="" />
@@ -12,12 +12,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/ScriptThree.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/script.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/NewClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/Script#3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/ScriptThree.cs" />
       </list>
     </option>
   </component>
@@ -68,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578937548247</updated>
       <workItem from="1578937551535" duration="1596000" />
+      <workItem from="1579715036809" duration="605000" />
     </task>
     <servers />
   </component>
@@ -81,7 +86,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
