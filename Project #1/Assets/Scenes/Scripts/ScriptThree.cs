@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class ScriptThree : MonoBehaviour
 {
@@ -13,13 +14,17 @@ public class ScriptThree : MonoBehaviour
         print("This is a line of code");
         print("Code Code Code");
         print("blu blum blah");
-        print("Classes can't have numbers or symbles in the class name");
-        
-    }
+        print("Classes can't have numbers or symbols in the class name");
+
+    public float floatnumber;
+    public int scoreValue;
+    public UnityEvent uEvent;
+    
+}
 
     // Update is called once per frame
     void Update()
     {
-        
+    
     }
 }
