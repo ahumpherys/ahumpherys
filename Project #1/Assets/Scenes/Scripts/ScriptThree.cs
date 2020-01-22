@@ -15,11 +15,7 @@ public class ScriptThree : MonoBehaviour
         print("Code Code Code");
         print("blu blum blah");
         print("Classes can't have numbers or symbols in the class name");
-
-    public float floatnumber;
-    public int scoreValue;
-    public UnityEvent uEvent;
-    
+        
 }
 
     // Update is called once per frame
